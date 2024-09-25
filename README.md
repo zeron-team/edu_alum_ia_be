@@ -9,4 +9,6 @@
 - git push -u origin master
 
 ## requirements.txt
-- ```bash pip install flask flask-cors pymongo openai ```
+```python 
+pip install flask flask-cors pymongo openai 
+```
